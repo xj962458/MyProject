@@ -1,0 +1,8 @@
+abupy==0.4.0
+numpy==1.22.4
+pandas==1.4.3
+scikit-learn==1.1.2
+ipywidgets==8.0.1
+bokeh==2.4.3
+toolz=0.12.0
+matplotlib==3.5.2

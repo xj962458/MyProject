@@ -1,0 +1,5 @@
+pyside6>=6.2.3
+librosa>=0.9.1
+matplotlib>=3.5.1
+numpy>=1.19.3
+scipy>=1.8.0

@@ -1,0 +1,19 @@
+{
+    "local": {
+        "path": "your_local_path",
+        "classroom": "5J492"
+    },
+    "server": {
+        "ip": "your_server_ip",
+        "port": 22,
+        "user": "your_server_user",
+        "password": "your_server_password",
+        "image_path": "your_image_path"
+    },
+    "database": {
+        "ip": "your_database_ip",
+        "user": "your_database_user",
+        "password": "your_database_password",
+        "db": "your_databases_name"
+    }
+}

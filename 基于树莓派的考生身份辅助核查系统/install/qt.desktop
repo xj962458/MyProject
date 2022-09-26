@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Application;Programme;
+Comment=Demo
+Encoding=UTF-8
+Exec=python /home/pi/Desktop/qt/main.py
+Name=Demo Desktop
+Type=Application

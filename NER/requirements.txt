@@ -1,0 +1,2 @@
+paddlenlp>=2.2.4
+paddlepaddle>=2.2.2

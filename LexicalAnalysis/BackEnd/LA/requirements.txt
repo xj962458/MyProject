@@ -1,0 +1,4 @@
+Django==4.0.6
+django-cors-headers==3.13.0
+django-simpleui==2022.7.29
+LAC==2.1.2

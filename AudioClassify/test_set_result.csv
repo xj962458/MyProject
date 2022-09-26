@@ -1,0 +1,99 @@
+实际类别,预测类别
+Clock tick,Clock tick
+Person sneeze,Person sneeze
+Clock tick,Helicopter
+Fire crackling,Fire crackling
+Person sneeze,Person sneeze
+Chainsaw,Chainsaw
+Person sneeze,Person sneeze
+Baby cry,Rooster
+Rooster,Rooster
+Chainsaw,Baby cry
+Dog bark,Dog bark
+Sea waves,Rain
+Rooster,Rooster
+Baby cry,Baby cry
+Sea waves,Sea waves
+Fire crackling,Fire crackling
+Rain,Rain
+Rooster,Rooster
+Fire crackling,Fire crackling
+Baby cry,Person sneeze
+Dog bark,Baby cry
+Person sneeze,Person sneeze
+Person sneeze,Person sneeze
+Baby cry,Rooster
+Fire crackling,Fire crackling
+Rooster,Rooster
+Sea waves,Sea waves
+Chainsaw,Person sneeze
+Fire crackling,Clock tick
+Chainsaw,Chainsaw
+Baby cry,Baby cry
+Baby cry,Baby cry
+Helicopter,Helicopter
+Clock tick,Fire crackling
+Rooster,Rooster
+Helicopter,Sea waves
+Helicopter,Helicopter
+Helicopter,Person sneeze
+Clock tick,Fire crackling
+Helicopter,Helicopter
+Clock tick,Clock tick
+Person sneeze,Person sneeze
+Helicopter,Helicopter
+Rain,Rain
+Helicopter,Sea waves
+Baby cry,Baby cry
+Helicopter,Helicopter
+Rooster,Dog bark
+Rooster,Rooster
+Rain,Rain
+Baby cry,Baby cry
+Person sneeze,Clock tick
+Clock tick,Clock tick
+Helicopter,Helicopter
+Helicopter,Helicopter
+Clock tick,Clock tick
+Chainsaw,Chainsaw
+Sea waves,Sea waves
+Rain,Helicopter
+Fire crackling,Fire crackling
+Person sneeze,Person sneeze
+Rain,Rain
+Dog bark,Clock tick
+Baby cry,Rooster
+Dog bark,Dog bark
+Clock tick,Clock tick
+Clock tick,Clock tick
+Clock tick,Clock tick
+Fire crackling,Fire crackling
+Baby cry,Rooster
+Rooster,Rooster
+Chainsaw,Chainsaw
+Rooster,Clock tick
+Helicopter,Helicopter
+Baby cry,Person sneeze
+Dog bark,Dog bark
+Rain,Rain
+Rain,Rain
+Dog bark,Helicopter
+Helicopter,Helicopter
+Helicopter,Person sneeze
+Baby cry,Baby cry
+Dog bark,Dog bark
+Fire crackling,Fire crackling
+Helicopter,Sea waves
+Rain,Rain
+Chainsaw,Chainsaw
+Rain,Rain
+Fire crackling,Rain
+Fire crackling,Fire crackling
+Chainsaw,Chainsaw
+Chainsaw,Chainsaw
+Sea waves,Sea waves
+Dog bark,Dog bark
+Clock tick,Clock tick
+Chainsaw,Chainsaw
+Rooster,Clock tick
+Chainsaw,Chainsaw
